@@ -7,7 +7,9 @@ body {
   max-width: 500px;
   margin: 0 auto;
 }
-
+.hero>.content>p {
+  text-align: center;
+}
 
 /* HEADING */
 
